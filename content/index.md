@@ -1,25 +1,21 @@
 ---
-title: "Min fina titel"
+title: "Min me-sida"
 ---
-Min me-sida i kursen design
-=========================
+Min me-sida i kursen design v2
+==============================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
+[FIGURE src=image/me.jpg?w=200 caption="Bild på mig"]
 
-[FIGURE src="image/me.jpg?w=500" class="right" caption="Bild på mig"]
+    Hej jag heter Anders Orbilt och är 42 år gammal
+    Jag började livet i en ort utanför Göteborg. Där solade jag och badade
+    Som 18-åring så flyttade man till Göteborg och studerade
+    Som 35-åring så flyttade jag till Ronneby och studerade på BTH
+    Sen så fick jag studentlägenhet i Karlskrona och flyttade dit
+    Sen fick jag en vanlig lägenhet i Karlskrona och flyttade dit
+    I år har jag solat en hel del på balkongen
+    Nu under höstterminen kom jag in på distansutbildningen som reserv
+    Jag var på 15:e plats som reserv men kom in ändå
+    Nu ser jag fram emot att lära mig mer om webprogrammering i lugn takt
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
-
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
-
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
-
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching och sedan turfing. Nu ligger jag lågt med hobbies, men något kanske dyker upp...?
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+    Av Anders O, Student BTH
+[FIGURE src=image/logo.jpg?w=100 caption="ByLine bild"]

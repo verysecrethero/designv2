@@ -1,1 +1,1 @@
-Copyright år och ditt namn samt diverse länkar som du finner relevanta.
+2018 Anders O [BTHsida](http://www.student.bth.se/~anor12/dbwebb-kurser/design/me/redovisa/htdocs/)

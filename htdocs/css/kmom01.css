@@ -14,3 +14,11 @@
 .rm-navbar-max {
     display: none;
 }
+
+html {
+    background-color: grey;
+}
+
+body {
+    background-color: grey;
+}
