@@ -1,0 +1,120 @@
+/**
+ * Layout style for general structure of header, navbar, main, footer
+ * and other regions of the page including route specific styles.
+ */
+
+/**
+ * Variables
+ */
+
+
+/**
+ * General layout
+ */
+
+ .inner-wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #0e1d16;
+}
+
+.site-logo {
+    display:none;
+}
+
+//navbar
+
+.rm-navbar ul {
+    color: #f6790f;
+    background-color: #0e1d16;
+}
+
+//main/sidebars layout
+
+.inner-wrap-main {
+    //.clearfix();
+    overflow: auto;
+}
+
+.region-main,
+.region-sidebar-left,
+.region-sidebar-right {
+    background-color: #0e1d16;
+    overflow: auto;
+}
+
+.region-main {
+    width: 70%;
+    margin-left: 10%;
+    float: left;
+    overflow: auto;
+
+    &.has-sidebar {
+        margin-left: 0;
+    }
+    &.has-sidebar-left.has-sidebar-right {
+        width: 60%;
+    }
+}
+
+.region-sidebar-left,
+.region-sidebar-right {
+    width: 30%;
+    float: left;
+}
+
+.region-sidebar-left.has-sidebar-right,
+.region-sidebar-right.has-sidebar-left {
+    width: 20%;
+}
+
+
+
+
+//header
+
+.inner-wrap-header {
+    max-width: 100%;
+}
+.outer-wrap-header {
+    background-color: #0e1d16;
+    overflow:auto;
+}
+
+.region-header-col-1 {
+    width:20%;
+    float:left;
+    background-color: #0e1d16;
+}
+.region-header-col-2 {
+    width:60%;
+    float:left;
+    text-align:center;
+}
+.region-header-col-3 {
+    width:30%;
+    float:left;
+    background-color: white;
+}
+ 
+//footer layout
+
+.inner-wrap-footer, .outer-wrap-footer {
+    color: #f6790f;
+    background-color: #0e1d16;
+}
+
+.footer-column {
+    width: 33%;
+    float: left;
+}
+
+.footer-column-1 {
+    background-color: red;
+}
+.footer-column-2 {
+    background-color: blue;
+}
+.footer-column-3 {
+    background-color: green;
+}
